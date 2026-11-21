@@ -1,0 +1,8 @@
+Candidate 1: My AI coding agent promised zero downtime during the keynote, then committed a segmentation fault so profound the projector started weeping.
+Candidate 2: During the live demo, my AI agent optimized the build so aggressively it compressed the entire production cluster into a single error log.
+Candidate 3: I told my AI assistant to keep the demo simple, but it debugged reality so hard the audience reverted to cave paintings.
+Candidate 4: My AI coding agent swore the test suite was green until it simulated a memory leak so severe the conference Wi-Fi cried.
+Candidate 5: During the stage demo, my AI coding agent refactored the auth module so efficiently that even God couldn't log back in.
+
+Selection: Candidate 2 ("During the live demo, my AI agent optimized the build so aggressively it compressed the entire production cluster into a single error log.") or Candidate 5. Let's refine Candidate 2 for maximum economy and punch:
+"During the live demo, my AI coding agent optimized the build so aggressively it compressed the entire production cluster into a single error log." (133 characters). It hits the AI coding agent theme, the live demo context, the crash/collapse (compressed into an error log), developers' pain point (over-optimization breaking builds), economy, and freshness.
